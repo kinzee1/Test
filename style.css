@@ -1,0 +1,27 @@
+body {
+	padding: 0 auto;
+	margin: 0 auto;
+	
+}
+
+.main_title {
+	font-family: Georgia;
+	font-size: 32px;
+	background: teal;
+	border-radius: 15px;
+	padding: 10px 5px;
+	text-align: center;
+	width: 900px;
+	position: relative;
+	margin: 0 auto;
+}
+
+p {
+	font-family: sans-serif;
+	color: gray;
+	width: 400px;
+	text-align: center;
+	padding: 10px 10px;
+	margin: 10px auto;
+	position: relative;
+}
